@@ -1,0 +1,16 @@
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\Desafioboocampquartaedicao.Form1.resources
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\Desafioboocampquartaedicao.csproj.GenerateResource.cache
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\Desafioboocampquartaedicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\Desafioboocampquartaedicao.AssemblyInfoInputs.cache
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\Desafioboocampquartaedicao.AssemblyInfo.cs
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\Desafioboocampquartaedicao.csproj.CoreCompileInputs.cache
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\bin\Debug\net7.0-windows\Desafioboocampquartaedicao.exe
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\bin\Debug\net7.0-windows\Desafioboocampquartaedicao.deps.json
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\bin\Debug\net7.0-windows\Desafioboocampquartaedicao.runtimeconfig.json
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\bin\Debug\net7.0-windows\Desafioboocampquartaedicao.dll
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\bin\Debug\net7.0-windows\Desafioboocampquartaedicao.pdb
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\Desafioboocampquartaedicao.dll
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\refint\Desafioboocampquartaedicao.dll
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\Desafioboocampquartaedicao.pdb
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\Desafioboocampquartaedicao.genruntimeconfig.cache
+C:\Users\joaog\source\repos\Desafioboocampquartaedicao\obj\Debug\net7.0-windows\ref\Desafioboocampquartaedicao.dll
